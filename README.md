@@ -1,1 +1,1 @@
-# stop_ec2_instances
+Loop through each region and automatically stop ec2 instances in each region.
